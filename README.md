@@ -1,4 +1,4 @@
-# Data Warehouse and Analytics Project
+# Data Warehouse Project
 
 A modern Data Warehouse project built using **SQL Server** to transform raw ERP and CRM sales data into a structured analytical database for reporting and business analysis.
 
