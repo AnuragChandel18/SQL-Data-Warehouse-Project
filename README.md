@@ -10,8 +10,6 @@ The project follows a **Medallion Architecture** with three layers:
 - **Silver:** Cleans, standardizes, and transforms the raw data.
 - **Gold:** Contains business-ready fact and dimension tables organized using a Star Schema.
 
-![Data Architecture](docs/data_architecture.png)
-
 ## 📌 Project Objectives
 
 - Build a modern SQL Server Data Warehouse.
