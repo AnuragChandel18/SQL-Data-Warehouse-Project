@@ -22,7 +22,7 @@ The project follows a **Medallion Architecture** with three layers:
 
 ## 🛠️ Technologies Used
 
-- SQL Server
+- PostgreeSQL Server
 - SQL Server Management Studio (SSMS)
 - SQL
 - ETL
