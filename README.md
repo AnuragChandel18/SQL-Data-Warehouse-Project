@@ -1,6 +1,6 @@
 # Data Warehouse Project
 
-A modern Data Warehouse project built using **SQL Server** to transform raw ERP and CRM sales data into a structured analytical database for reporting and business analysis.
+A modern Data Warehouse project built using **PostgreSQL** to transform raw ERP and CRM sales data into a structured analytical database for reporting and business analysis.
 
 ## 🏗️ Data Architecture
 
@@ -12,7 +12,7 @@ The project follows a **Medallion Architecture** with three layers:
 
 ## 📌 Project Objectives
 
-- Build a modern SQL Server Data Warehouse.
+- Build a modern PostgreSQL Data Warehouse.
 - Load data from ERP and CRM CSV files.
 - Perform ETL processes using SQL.
 - Clean and validate data.
@@ -22,8 +22,8 @@ The project follows a **Medallion Architecture** with three layers:
 
 ## 🛠️ Technologies Used
 
-- PostgreeSQL Server
-- SQL Server Management Studio (SSMS)
+- PostgreSQL
+- pgAdmin / DBeaver
 - SQL
 - ETL
 - Data Modeling
